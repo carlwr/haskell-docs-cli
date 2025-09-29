@@ -5,7 +5,7 @@ cabal-version: 2.4
 -- see: https://github.com/sol/hpack
 
 name:           haskell-docs-cli
-version:        1.0.0.0
+version:        1.0.0.1
 synopsis:       Search Hoogle and navigate Hackage from the command line.
 description:    Please see the README on GitHub at <https://github.com/lazamar/haskell-docs-cli#readme>
 category:       Haskell, Development
